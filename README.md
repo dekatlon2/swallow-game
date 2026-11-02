@@ -13,6 +13,6 @@ You control a swallow flying across the sky and collecting stars while avoiding 
 ## How to run
 
 ```bash
-gcc swallow.c -o swallow
+gcc swallow.c -o swallow -lncurses
 ./swallow
 ```
